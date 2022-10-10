@@ -6,5 +6,7 @@ Kheer
 Pasta
 Paneer
 
+Pizza
+Burger
 
 thank you :)
